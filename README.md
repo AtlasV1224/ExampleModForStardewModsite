@@ -4,6 +4,6 @@ tbis readme will be used at tbe mod's description on the site, however this may 
 <details>
   <summary>Stardew modsite information</summary>
   
-  ModDescription: 
+  ModDescription: https://github.com/AtlasV1224/ExampleModForStardewModsite/blob/main/StardewModsiteInfo%2FModDescription.md
   
 </details>
