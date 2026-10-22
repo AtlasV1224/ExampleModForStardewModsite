@@ -1,0 +1,9 @@
+{
+   "Name": "(CP) Example Mod",
+   "Author": "AtlasV",
+   "Version": "1.26.1",
+   "Description": "An example mod for the Stardew modsite detailing wbat can be done with the readme.",
+   "UniqueID": "AtlasV.ExampleMod",
+   "UpdateKeys": ["GitHub:AtlasV1224/ExampleMod"],
+   "ContentPackFor": "Pathoschild.ContentPatcher"
+}
