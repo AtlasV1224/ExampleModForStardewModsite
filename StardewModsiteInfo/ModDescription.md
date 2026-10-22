@@ -98,3 +98,9 @@ would be
     - [x] Additions
     - [ ] Modifications
 for a mod that adds new crops
+
+### Dependancies
+The site will attempt to automatically find the right dependancies for mods, however this may not be achievable for all mods, to curb this, you can provide direct links to the dependancies like so:
+
+### Optional Mods
+Some mods pair well with others, or have extra additions or changes that are conditionally included, just like the dependancies, you can provide a list of optional mods that pair well, these wont be automatically derived and so require you to add them.
