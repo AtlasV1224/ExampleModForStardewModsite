@@ -43,6 +43,58 @@ You can add tags for the for site for filtering purposes, these filters are like
   - Audio
     - [ ] Additions
     - [ ] Mechanics
+  - Buildings
+    - [ ] Additions
+    - [ ] Mechanics
+    - [ ] Recolor
+  - Characters
+    - [ ] Additions
+    - [ ] Visual Modifications
+    - [ ] Content Modifications
+  - Farmer Clothing
+    - [ ] Additions
+    - [ ] Modifications
+  - Crafting
+    - [ ] Additions
+    - [ ] Modifications
+  - Crops 
+    - [ ] Additions
+    - [ ] Modifications
+  - Dialogue
+    - [ ] Additions
+    - [ ] Modifications
+  - Events 
+    - [ ] Additions
+    - [ ] Modifications
+  - Collectables
+    - [ ] Fish
+    - [ ] Museum Donations
+  - Maps
+    - [ ] Additions
+    - [ ] Modifications
+  - Livestock
+    - [ ] Additions
+    - [ ] Visual Modifications
+    - [ ] Content Modifications
+  - Modding Tools
+    - [ ] In Game
+    - [ ] External
+  - Translation
+    - [ ] <Vanilla languages>
+    - [ ] <Unofficial Languages>
+    - [ ] Other (Language without a language code)
+  - [ ] Expansions
+  - [ ] Cheats
+  
   
 </details>
 ```
+To add a tag to a mod, add an "x" inside tbe square brackets, for example:
+- Crops 
+    - [ ] Additions
+    - [ ] Modifications
+would be 
+- Crops 
+    - [x] Additions
+    - [ ] Modifications
+for a mod that adds new crops
