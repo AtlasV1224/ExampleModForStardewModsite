@@ -90,17 +90,33 @@ You can add tags for the for site for filtering purposes, these filters are like
 </details>
 ```
 To add a tag to a mod, add an "x" inside tbe square brackets, for example:
+```
 - Crops 
     - [ ] Additions
     - [ ] Modifications
+```
 would be 
+```
 - Crops 
     - [x] Additions
     - [ ] Modifications
-for a mod that adds new crops
+```
+for a mod that adds new crops. Any tags not needed can be removed. 
 
 ### Dependancies
-The site will attempt to automatically find the right dependancies for mods, however this may not be achievable for all mods, to curb this, you can provide direct links to the dependancies like so:
+The site will attempt to automatically find the right dependancies for mods from the manifest, however this may not be achievable for all mods, to curb this, you can provide direct links to the dependancies like so:
+```
+<details>
+  <summary>Stardew Modsite Info</summary>
+  
+  Dependancies:
+    
+  
+</details>
+```
+
 
 ### Optional Mods
 Some mods pair well with others, or have extra additions or changes that are conditionally included, just like the dependancies, you can provide a list of optional mods that pair well, these wont be automatically derived and so require you to add them.
+
+### Full Example
