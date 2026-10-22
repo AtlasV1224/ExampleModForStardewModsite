@@ -40,7 +40,7 @@ You can add tags for the for site for filtering purposes, these filters are like
   <summary>Stardew Modsite Info</summary>
   
   Tags:
-  - [ ] Audio
+  - Audio
     - [ ] Additions
     - [ ] Mechanics
   
