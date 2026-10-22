@@ -130,3 +130,42 @@ Some mods pair well with others, or have extra additions or changes that are con
 ```
 
 ### Full Example
+```
+<details>
+  <summary>Stardew Modsite Info</summary>
+  
+  Manifest: https://github.com/AtlasV1224/ExampleModForStardewModsite/blob/main/ExampleMod%2Fmanifest.json
+  Name: Example Mod
+
+  Tags:
+  - Modding Tools
+    - [x] External
+
+  Dependancies:
+    - "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
+  
+  Optional Mods:
+    - https://github.com/Mushymato/PeliQ
+    - https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
+  
+</details>
+```
+would look like
+<details>
+  <summary>Stardew Modsite Info</summary>
+  
+  Manifest: https://github.com/AtlasV1224/ExampleModForStardewModsite/blob/main/ExampleMod%2Fmanifest.json
+  Name: Example Mod
+
+  Tags:
+  - Modding Tools
+    - [x] External
+
+  Dependancies:
+    - "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
+  
+  Optional Mods:
+    - https://github.com/Mushymato/PeliQ
+    - https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
+  
+</details>
