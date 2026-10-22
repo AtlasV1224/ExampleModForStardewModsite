@@ -80,8 +80,17 @@ You can add tags for the for site for filtering purposes, these filters are like
     - [ ] In Game
     - [ ] External
   - Translation
-    - [ ] <Vanilla languages>
-    - [ ] <Unofficial Languages>
+    - [ ] German
+    - [ ] Spanish
+    - [ ] French
+    - [ ] Italian
+    - [ ] Japanese
+    - [ ] Korean
+    - [ ] Hungarian
+    - [ ] Portuguese
+    - [ ] Russian
+    - [ ] Turkish
+    - [ ] Chinese
     - [ ] Other (Language without a language code)
   - [ ] Expansions
   - [ ] Cheats
