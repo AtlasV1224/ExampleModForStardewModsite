@@ -167,6 +167,6 @@ would look like
   
   Optional Mods:
   - https://github.com/Mushymato/PeliQ
-- https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
+  - https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
   
 </details>
