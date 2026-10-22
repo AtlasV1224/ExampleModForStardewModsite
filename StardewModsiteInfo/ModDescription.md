@@ -155,6 +155,7 @@ would look like
   <summary>Stardew Modsite Info</summary>
   
   Manifest: https://github.com/AtlasV1224/ExampleModForStardewModsite/blob/main/ExampleMod%2Fmanifest.json
+  
   Name: Example Mod
 
   Tags:
@@ -162,10 +163,10 @@ would look like
     - [x] External
 
   Dependancies:
-    - "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
+  - "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
   
   Optional Mods:
-    - https://github.com/Mushymato/PeliQ
-    - https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
+  - https://github.com/Mushymato/PeliQ
+- https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
   
 </details>
