@@ -123,7 +123,8 @@ Some mods pair well with others, or have extra additions or changes that are con
   <summary>Stardew Modsite Info</summary>
   
   Optional Mods:
-    "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
+    https://github.com/Mushymato/PeliQ
+    https://github.com/spacechase0/StardewValleyMods/tree/develop/framework%2FGenericModConfigMenu
   
 </details>
 ```
