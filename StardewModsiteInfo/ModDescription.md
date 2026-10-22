@@ -110,13 +110,22 @@ The site will attempt to automatically find the right dependancies for mods from
   <summary>Stardew Modsite Info</summary>
   
   Dependancies:
-    
+    "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
   
 </details>
 ```
-
+you can also define optional dependancies by replaceing the "Required" with "Optional"
 
 ### Optional Mods
 Some mods pair well with others, or have extra additions or changes that are conditionally included, just like the dependancies, you can provide a list of optional mods that pair well, these wont be automatically derived and so require you to add them.
+```
+<details>
+  <summary>Stardew Modsite Info</summary>
+  
+  Optional Mods:
+    "https://github.com/Pathoschild/StardewMods/tree/stable/ContentPatcher": Required
+  
+</details>
+```
 
 ### Full Example
